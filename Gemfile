@@ -5,7 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 gem 'rails-i18n'
 gem 'foreman'
-
+gem 'devise'
+gem 'devise-i18n'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
